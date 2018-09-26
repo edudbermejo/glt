@@ -1,0 +1,13 @@
+.App-header {
+  height: 4em;
+  background-color: #201546;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.App-title {
+  font-family: 'Aldrich', sans-serif;
+  color: #e0c11c;
+  margin: 0;
+  font-size: 1.7em;
+}
