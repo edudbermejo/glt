@@ -1,13 +1,31 @@
+.App {
+    --bars-height: 4em;
+}
+
 .App-header {
-  height: 4em;
-  background-color: #201546;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 .App-title {
   font-family: 'Aldrich', sans-serif;
-  color: #e0c11c;
   margin: 0;
   font-size: 1.7em;
+}
+
+.App-header,
+.toolbar {
+    height: var(--bars-height);
+    background-color: #201546;
+    color: #e0c11c;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
