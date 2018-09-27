@@ -1,11 +1,16 @@
 .App {
     --bars-height: 4em;
+    height: 100%;
+    background-color: #e1f2fc;
 }
 
 .App-header {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .App-title {
@@ -32,4 +37,9 @@
 
 .main-content-container {
   margin: var(--bars-height) 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em 2em;
 }

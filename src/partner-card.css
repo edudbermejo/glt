@@ -1,31 +1,19 @@
-.App {
-    --bars-height: 4em;
-}
-
-.App-header {
+.partner-card {
+  height: 4em;
+  background-color: #426da5;
+  color: white;
+  border: 2px solid #e0c11c;
+  width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  margin: 0.5em 0;
+  padding: 0 2.5em;
+  box-sizing: border-box;
 }
 
-.App-title {
-  font-family: 'Aldrich', sans-serif;
-  margin: 0;
-  font-size: 1.7em;
-}
-
-.App-header,
-.toolbar {
-    height: var(--bars-height);
-    background-color: #201546;
-    color: #e0c11c;
-}
-
-.toolbar {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+.partner-card * {
+  flex-basis: 33.3%;
+  text-align: center;
+  font-size: 1.2em;
 }

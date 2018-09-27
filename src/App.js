@@ -32,8 +32,8 @@ class App extends Component {
   }
 
   getCouplesHTML() {
-    return this.couples.map(couple => {
-      return <PartnerCard employee={couple} />;
+    return this.couples.map((couple, index) => {
+      return <PartnerCard key={couple.name.concat(index.toString)} employee={couple} />;
     });
   }
 
@@ -41,7 +41,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">COFFEE geNEROus</h1>
+          <h1 className="App-title">CAFFE geNEROus</h1>
         </header>
         <div className="main-content-container">
           {this.getCouplesHTML()}
