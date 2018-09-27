@@ -10,9 +10,15 @@ class PartnerCard extends Component {
   render() {
     return (
       <div className="partner-card">
-        <span>{this.originEmployee}</span>
+        <div className="partner-card-name">
+          <span>{this.originEmployee.first}</span>
+          <span>{this.originEmployee.last}</span>
+        </div>
         <i className="fa fa-long-arrow-right"></i>
-        <span>{this.destinationEmployee}</span>
+        <div className="partner-card-name">
+          <span>{this.destinationEmployee.first}</span>
+          <span>{this.destinationEmployee.last}</span>
+        </div>
       </div>
     );
   }

@@ -1,5 +1,5 @@
 .partner-card {
-  height: 4em;
+  height: 4.5em;
   background-color: #426da5;
   color: white;
   border: 2px solid #e0c11c;
@@ -7,13 +7,18 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 0.5em 0;
-  padding: 0 2.5em;
+  margin: 1em 0;
+  padding: 0 1em;
   box-sizing: border-box;
 }
 
 .partner-card * {
   flex-basis: 33.3%;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1em;
+}
+
+.partner-card-name {
+  display: flex;
+  flex-direction: column;
 }
