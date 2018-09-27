@@ -73,7 +73,8 @@
   }
 
   .toolbar {
-    top: calc(var(--bars-height) + 0.1em);
+    top: var(--bars-height);
+    border-top: 2px solid #e1f2fc;
     height: calc(var(--bars-height) - 1em);
   }
 }
