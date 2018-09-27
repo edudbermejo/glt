@@ -8,12 +8,12 @@
   justify-content: space-around;
   align-items: center;
   margin: 1em 0;
-  padding: 0 1em;
+  padding: 0 2em;
   box-sizing: border-box;
 }
 
-.partner-card * {
-  flex-basis: 33.3%;
+.partner-card > * {
+  width: 33.3%;
   text-align: center;
   font-size: 1em;
 }
@@ -21,4 +21,15 @@
 .partner-card-name {
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+
+@media (min-width:960px) {
+
+  .partner-card {
+    width: 46%;
+    margin: 2%;
+    height: 5em;
+    font-size: 1.8em;
+  }
 }

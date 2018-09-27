@@ -55,3 +55,25 @@
 .matches-container {
   width: 100%;
 }
+
+@media (min-width:960px) {
+
+  .App {
+    --bars-height: 5em;
+  }
+
+  .main-content-container {
+    padding: calc(var(--bars-height) * 2) 2em 0 2em;
+  }
+
+  .matches-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .toolbar {
+    top: calc(var(--bars-height) + 0.1em);
+    height: calc(var(--bars-height) - 1em);
+  }
+}
