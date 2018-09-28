@@ -99,7 +99,7 @@ class App extends Component {
               value="ny"
               onChange={(event) => this.locationChanged(event)}
               checked={this.location === 'ny'}/>
-            <label for="ny-location">New York</label>
+            <label htmlFor="ny-location">New York</label>
           </div>
           <div className="option-container">
             <input type="radio"
@@ -108,7 +108,7 @@ class App extends Component {
               value="dub"
               onChange={(event) => this.locationChanged(event)}
               checked={this.location === 'dub'}/>
-            <label for="dub-location">Dublin</label>
+            <label htmlFor="dub-location">Dublin</label>
           </div>
         </div>
       </div>

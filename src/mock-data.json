@@ -2,8 +2,8 @@
 {
     "users": [{
         "name": {
-            "first": "Brennon",
-            "last": "Breitenberg"
+            "first": "Newt",
+            "last": "Scamander"
         },
         "location": "ny",
         "department": "engineering",
@@ -13,8 +13,8 @@
         "guid": "d20c20ab-5813-48d4-8148-dee37530a1ec"
     }, {
         "name": {
-            "first": "Tillman",
-            "last": "Jakubowski"
+            "first": "Porpentina",
+            "last": "Goldstein"
         },
         "location": "ny",
         "department": "human resources",
@@ -24,8 +24,8 @@
         "guid": "1886e6fb-bac5-44dd-be1a-748a246f9c91"
     }, {
         "name": {
-            "first": "Payton",
-            "last": "Corwin"
+            "first": "Queenie",
+            "last": "Goldstein"
         },
         "location": "ny",
         "department": "engineering",
@@ -35,8 +35,8 @@
         "guid": "0b6f30f7-fd64-4864-bc88-145c47bdb9ee"
     }, {
         "name": {
-            "first": "Dolores",
-            "last": "Pfannerstill"
+            "first": "Jakob",
+            "last": "Kowalski"
         },
         "location": "ny",
         "department": "human resources",
@@ -46,21 +46,10 @@
         "guid": "d6539465-509a-4a1a-9700-5eebbb489c76"
     }, {
         "name": {
-            "first": "Kiley",
-            "last": "McLaughlin"
+            "first": "Molly",
+            "last": "Weasley"
         },
-        "location": "ny",
-        "department": "human resources",
-        "motto": "Networked composite implementation",
-        "email": "kiley.mclaughlin@hbc.com",
-        "phone": "021 7029804",
-        "guid": "98771b42-41eb-4a73-9933-ac21db3b5ac6"
-    }, {
-        "name": {
-            "first": "Una",
-            "last": "Wehner"
-        },
-        "location": "ny",
+        "location": "dub",
         "department": "human resources",
         "motto": "Streamlined composite orchestration",
         "email": "una.wehner@hbc.com",
@@ -68,8 +57,8 @@
         "guid": "2cec1d6e-e687-48f3-8201-32d41e991203"
     }, {
         "name": {
-            "first": "Bradley",
-            "last": "West"
+            "first": "Cho",
+            "last": "Chang"
         },
         "location": "ny",
         "department": "human resources",
@@ -79,36 +68,25 @@
         "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f28"
     }, {
         "name": {
-            "first": "Alexandria",
-            "last": "Turner"
+            "first": "Dobby",
+            "last": "Freeelf"
         },
         "location": "ny",
-        "department": "human resources",
-        "motto": "Monitored transitional projection",
-        "email": "alexandria.turner@hbc.com",
-        "phone": "0505 7431231",
-        "guid": "ee9c20aa-68f1-420d-ad71-497607aab868"
+        "department": "non-human resources",
+        "motto": "God save Harry Potter",
+        "email": "dobby.shocks@hbc.com",
+        "phone": "062 6931097",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f25"
     }, {
         "name": {
-            "first": "Stanford",
-            "last": "Friesen"
+            "first": "Severus",
+            "last": "Snape"
         },
         "location": "ny",
-        "department": "human resources",
-        "motto": "Stand-alone real-time hierarchy",
-        "email": "stanford.friesen@hbc.com",
-        "phone": "057 0003771",
-        "guid": "019fa90f-1558-45f5-8724-b7c1b0d6e785"
-    }, {
-        "name": {
-            "first": "Martine",
-            "last": "Jacobs"
-        },
-        "location": "ny",
-        "department": "engineering",
-        "motto": "Triple-buffered needs-based parallelism",
-        "email": "martine.jacobs@hbc.com",
-        "phone": "0505 5650987",
-        "guid": "b8ecef28-e155-4e0d-94f8-73148c0b9115"
+        "department": "potions",
+        "motto": "God do not save Harry Potter",
+        "email": "severus.snape@hbc.com",
+        "phone": "062 6931091",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f14"
     }]
 }
