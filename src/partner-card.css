@@ -1,0 +1,35 @@
+.partner-card {
+  height: 4.5em;
+  background-color: #426da5;
+  color: white;
+  border: 2px solid #e0c11c;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 1em 0;
+  padding: 0 2em;
+  box-sizing: border-box;
+}
+
+.partner-card > * {
+  width: 33.3%;
+  text-align: center;
+  font-size: 1em;
+}
+
+.partner-card-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (min-width:960px) {
+
+  .partner-card {
+    width: 46%;
+    margin: 2%;
+    height: 5em;
+    font-size: 1.7em;
+  }
+}

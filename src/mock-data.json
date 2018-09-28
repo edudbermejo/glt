@@ -1,0 +1,92 @@
+
+{
+    "users": [{
+        "name": {
+            "first": "Newt",
+            "last": "Scamander"
+        },
+        "location": "ny",
+        "department": "engineering",
+        "motto": "Distributed discrete superstructure",
+        "email": "brennon.breitenberg@hbc.com",
+        "phone": "063 4324581",
+        "guid": "d20c20ab-5813-48d4-8148-dee37530a1ec"
+    }, {
+        "name": {
+            "first": "Porpentina",
+            "last": "Goldstein"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Self-enabling fault-tolerant product",
+        "email": "tillman.jakubowski@hbc.com",
+        "phone": "071 1667311",
+        "guid": "1886e6fb-bac5-44dd-be1a-748a246f9c91"
+    }, {
+        "name": {
+            "first": "Queenie",
+            "last": "Goldstein"
+        },
+        "location": "ny",
+        "department": "engineering",
+        "motto": "Multi-tiered transitional strategy",
+        "email": "payton.corwin@hbc.com",
+        "phone": "023 9206042",
+        "guid": "0b6f30f7-fd64-4864-bc88-145c47bdb9ee"
+    }, {
+        "name": {
+            "first": "Jakob",
+            "last": "Kowalski"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Advanced solution-oriented Graphical User Interface",
+        "email": "dolores.pfannerstill@hbc.com",
+        "phone": "068 5188130",
+        "guid": "d6539465-509a-4a1a-9700-5eebbb489c76"
+    }, {
+        "name": {
+            "first": "Molly",
+            "last": "Weasley"
+        },
+        "location": "dub",
+        "department": "human resources",
+        "motto": "Streamlined composite orchestration",
+        "email": "una.wehner@hbc.com",
+        "phone": "090 7262414",
+        "guid": "2cec1d6e-e687-48f3-8201-32d41e991203"
+    }, {
+        "name": {
+            "first": "Cho",
+            "last": "Chang"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Operative high-level implementation",
+        "email": "bradley.west@hbc.com",
+        "phone": "062 6931096",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f28"
+    }, {
+        "name": {
+            "first": "Dobby",
+            "last": "Freeelf"
+        },
+        "location": "ny",
+        "department": "non-human resources",
+        "motto": "God save Harry Potter",
+        "email": "dobby.shocks@hbc.com",
+        "phone": "062 6931097",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f25"
+    }, {
+        "name": {
+            "first": "Severus",
+            "last": "Snape"
+        },
+        "location": "ny",
+        "department": "potions",
+        "motto": "God do not save Harry Potter",
+        "email": "severus.snape@hbc.com",
+        "phone": "062 6931091",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f14"
+    }]
+}
