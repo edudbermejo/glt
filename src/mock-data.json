@@ -1,0 +1,114 @@
+
+{
+    "users": [{
+        "name": {
+            "first": "Brennon",
+            "last": "Breitenberg"
+        },
+        "location": "ny",
+        "department": "engineering",
+        "motto": "Distributed discrete superstructure",
+        "email": "brennon.breitenberg@hbc.com",
+        "phone": "063 4324581",
+        "guid": "d20c20ab-5813-48d4-8148-dee37530a1ec"
+    }, {
+        "name": {
+            "first": "Tillman",
+            "last": "Jakubowski"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Self-enabling fault-tolerant product",
+        "email": "tillman.jakubowski@hbc.com",
+        "phone": "071 1667311",
+        "guid": "1886e6fb-bac5-44dd-be1a-748a246f9c91"
+    }, {
+        "name": {
+            "first": "Payton",
+            "last": "Corwin"
+        },
+        "location": "ny",
+        "department": "engineering",
+        "motto": "Multi-tiered transitional strategy",
+        "email": "payton.corwin@hbc.com",
+        "phone": "023 9206042",
+        "guid": "0b6f30f7-fd64-4864-bc88-145c47bdb9ee"
+    }, {
+        "name": {
+            "first": "Dolores",
+            "last": "Pfannerstill"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Advanced solution-oriented Graphical User Interface",
+        "email": "dolores.pfannerstill@hbc.com",
+        "phone": "068 5188130",
+        "guid": "d6539465-509a-4a1a-9700-5eebbb489c76"
+    }, {
+        "name": {
+            "first": "Kiley",
+            "last": "McLaughlin"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Networked composite implementation",
+        "email": "kiley.mclaughlin@hbc.com",
+        "phone": "021 7029804",
+        "guid": "98771b42-41eb-4a73-9933-ac21db3b5ac6"
+    }, {
+        "name": {
+            "first": "Una",
+            "last": "Wehner"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Streamlined composite orchestration",
+        "email": "una.wehner@hbc.com",
+        "phone": "090 7262414",
+        "guid": "2cec1d6e-e687-48f3-8201-32d41e991203"
+    }, {
+        "name": {
+            "first": "Bradley",
+            "last": "West"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Operative high-level implementation",
+        "email": "bradley.west@hbc.com",
+        "phone": "062 6931096",
+        "guid": "077d93c4-6ef0-4553-be51-f2ecc0a25f28"
+    }, {
+        "name": {
+            "first": "Alexandria",
+            "last": "Turner"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Monitored transitional projection",
+        "email": "alexandria.turner@hbc.com",
+        "phone": "0505 7431231",
+        "guid": "ee9c20aa-68f1-420d-ad71-497607aab868"
+    }, {
+        "name": {
+            "first": "Stanford",
+            "last": "Friesen"
+        },
+        "location": "ny",
+        "department": "human resources",
+        "motto": "Stand-alone real-time hierarchy",
+        "email": "stanford.friesen@hbc.com",
+        "phone": "057 0003771",
+        "guid": "019fa90f-1558-45f5-8724-b7c1b0d6e785"
+    }, {
+        "name": {
+            "first": "Martine",
+            "last": "Jacobs"
+        },
+        "location": "ny",
+        "department": "engineering",
+        "motto": "Triple-buffered needs-based parallelism",
+        "email": "martine.jacobs@hbc.com",
+        "phone": "0505 5650987",
+        "guid": "b8ecef28-e155-4e0d-94f8-73148c0b9115"
+    }]
+}
